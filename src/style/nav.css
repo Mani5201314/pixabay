@@ -1,0 +1,58 @@
+.navstart{
+    position: fixed;
+    top: 0%;
+}
+#imglogo{
+    width: 50%;
+}
+#buttonj{
+    padding: 5px;
+    border-radius: 30px;
+    background: rgba(162, 199, 232, 0);
+    margin-right: 10px;
+    color: rgb(255, 255, 255);
+    border: 0.5px solid #656f79;
+    padding:7px 15px 7px 15px;
+}
+#buttonu{
+    padding: 5px;
+    border-radius: 30px;
+    background:#00ab6b;
+    margin-right: 20px;
+    color: rgb(13, 8, 8);
+    border: 0.5px solid #656f79;
+    padding:10px 20px 10px 15px;
+}
+#search{
+    padding:10px 470px 10px 30px;
+    margin-left: 15px;
+    border-radius: 60px;
+    font-size: 14px;
+    background-color: #ffffff00;
+    border: none;
+    color: rgb(197, 197, 197);
+}
+input::placeholder{
+    color: white;
+}
+#videos-select{
+    position: absolute;
+    top: 19px;
+    left: 55%;
+    padding: 8px;
+    border: none;
+    border-radius: 60px;
+    color: rgb(255, 255, 255);
+    background-color: #ffffff00;
+    font-weight:700;
+
+}
+#videos{
+ 
+    padding: 8px;
+    background-color: #ffffff00;
+    border: none;
+    color:rgb(255, 255, 255);
+    font-weight:700;
+
+}
